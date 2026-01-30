@@ -1,9 +1,1 @@
 node_modules
-dist
-.env
-.dev.vars
-.DS_Store
-*.log
-whoposted-sync-temp
-whoposted-temp
-skill-passport-temp
